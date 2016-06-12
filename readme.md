@@ -19,6 +19,7 @@
 2. Select Server Size
 3. Select Image (Ubuntu 12.04.5)
 
+
 ###### Live Server and Test Server Setup
 1. SSH Into the Server 
 2. Create Non-Root User
@@ -27,6 +28,7 @@
 5. Install Packages
 ⋅⋅* Apache
 ..* Git 
+
 
 ###### GitHooks Deployment
 1. Create Space for Repo on Live Server 
