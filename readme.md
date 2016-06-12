@@ -26,8 +26,8 @@
 3. Update Package System
 4. Update System level Packages
 5. Install Packages
-⋅⋅* Apache
-..* Git 
+⋅⋅1. Apache
+⋅⋅2. Git 
 
 
 ###### GitHooks Deployment
@@ -40,6 +40,6 @@
 ⋅⋅4. Push changes once confirmed everything is working properly
 
 
-⋅⋅⋅ Primarily work in testing server for creating branches for constant changes and debugging
-⋅⋅⋅ once site is showing the way you like then create a branch for new testing changes add and commit
-⋅⋅⋅ that branch and merge it into master (LiveServer) push once you are sure your corrections were correct.
+⋅⋅⋅Primarily work in testing server for creating branches for constant changes and debugging
+⋅⋅⋅once site is showing the way you like then create a branch for new testing changes add and commit
+⋅⋅⋅that branch and merge it into master (LiveServer) push once you are sure your corrections were correct.
